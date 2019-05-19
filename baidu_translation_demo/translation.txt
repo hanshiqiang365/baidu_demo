@@ -1,0 +1,5 @@
+﻿#1 - Today is Friday. = 今天是星期五。
+#2 - 人生苦短，我用Python。 = Life is short. I use Python.
+#3 - 华为，中华有为。 = Huawei, China has a promising future.
+#4 - 支持华为！ = Support Huawei!
+#5 - 中华民族复兴。 = The rejuvenation of the Chinese nation.
